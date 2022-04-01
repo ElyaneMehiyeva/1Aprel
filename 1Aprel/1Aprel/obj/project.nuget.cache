@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUHsnk+li5jAIXmOJJWHm1qOqYVWulSZwUU5y0yEOVO0YQOF0jM1fa0GBzg9XiTVgzfDD9oqRzlhI/JM7/M6dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Tasklar\\1Aprel\\1Aprel\\1Aprel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
