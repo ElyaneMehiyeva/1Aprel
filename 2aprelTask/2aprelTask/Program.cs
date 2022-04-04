@@ -27,7 +27,7 @@ namespace _2aprelTask
                 schedule1.SetMeeting("meet1", new DateTime(2022, 04, 01, 13, 00, 00), new DateTime(2022, 04, 01, 14, 00, 00));
                 schedule1.SetMeeting("meet2", new DateTime(2022, 04, 02, 15, 00, 00), new DateTime(2022, 04, 02, 18, 00, 00));
                 schedule1.SetMeeting("meet3", new DateTime(2022, 04, 02, 16, 00, 00), new DateTime(2022, 04, 02, 18, 00, 00));
-
+                
             }
             catch (Exception ex)
             {
@@ -38,6 +38,12 @@ namespace _2aprelTask
             {
                 Console.WriteLine(item.Name);
             }
+            foreach (var item in schedule1.GetExistMeetings(""))
+            {
+                Console.WriteLine(item.Name);
+            }
+            
+           
         }
     }
 }

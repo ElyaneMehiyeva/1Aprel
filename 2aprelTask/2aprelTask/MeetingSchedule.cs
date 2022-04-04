@@ -16,9 +16,10 @@ namespace _2aprelTask
                 ToDate = toDate,
             };
             if (Meetings.Count == 0)
-            {                
+            {
                 Meetings.Add(meeting1);
-            } else
+            }
+            else
             {
                 int count = 0;
                 foreach (Meeting Meeting in Meetings)
@@ -35,12 +36,12 @@ namespace _2aprelTask
                         throw new Exception("Bu vaxtda meeting var!");
                     }
                 }
-                if(count == 1)
+                if (count == 1)
                 {
                     Meetings.Add(meeting1);
                 }
             }
-            
+
         }
         public int FindMeetingsCount(DateTime time)
         {
@@ -49,10 +50,10 @@ namespace _2aprelTask
             {
                 if (time < Meeting.FromDate)
                 {
-                   newMeetings.Add(Meeting);
+                    newMeetings.Add(Meeting);
                 }
             }
-            return newMeetings.Count;   
+            return newMeetings.Count;
         }
         public bool IsExistsMeetingByName(string text)
         {
@@ -67,15 +68,22 @@ namespace _2aprelTask
         }
         public List<Meeting> GetExistMeetings(string name)
         {
-            List<Meeting> newMeetings = new List<Meeting>();
-            foreach (Meeting Meeting in Meetings)
+            //List<Meeting> newMeetings = new List<Meeting>();
+            //foreach (Meeting Meeting in Meetings)
+            //{
+            //    if (Meeting.Name.Contains(name))
+            //    {
+            //        newMeetings.Add(Meeting);
+            //    }
+            //}
+            //return newMeetings;
+            if (string.IsNullOrEmpty(name))
+                throw new Exception("Name parametri null-dur!");
+            else
             {
-                if (Meeting.Name.Contains(name))
-                {
-                    newMeetings.Add(Meeting);
-                }
+                List<Meeting> newMeetings = Meetings.FindAll(meet => meet.Name.Contains(name));
+                return newMeetings;
             }
-            return newMeetings;
         }
     }
 }
