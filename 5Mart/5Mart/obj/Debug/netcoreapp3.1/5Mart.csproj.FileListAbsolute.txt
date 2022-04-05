@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\bin\Debug\netcoreapp3.1\5Mart.exe
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\bin\Debug\netcoreapp3.1\5Mart.deps.json
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\bin\Debug\netcoreapp3.1\5Mart.runtimeconfig.json
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\bin\Debug\netcoreapp3.1\5Mart.runtimeconfig.dev.json
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\bin\Debug\netcoreapp3.1\5Mart.dll
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\bin\Debug\netcoreapp3.1\5Mart.pdb
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.AssemblyInfo.cs
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.dll
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.pdb
+C:\Users\User\Desktop\Tasklar\5Mart\5Mart\obj\Debug\netcoreapp3.1\5Mart.genruntimeconfig.cache

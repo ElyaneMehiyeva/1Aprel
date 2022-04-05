@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIPj0LT0PiPbO5dWxdh7g+9gOaaeP2gjExHkt+Dl3m6F/sPoyZ72nvOMS+WBdZ6z6SFgrWqSifN0X0caLupXGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Tasklar\\5Mart\\5Mart\\5Mart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
