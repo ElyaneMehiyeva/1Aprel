@@ -1,0 +1,12 @@
+{
+    "Id": 1,
+    "Name": "Libraff",
+    "Books": [
+        {
+            "Id": 123214,
+            "Name": "Evakuasiya",
+            "AuthorName": "Qaraqan",
+            "Price": 12.0
+        }
+    ]
+}
