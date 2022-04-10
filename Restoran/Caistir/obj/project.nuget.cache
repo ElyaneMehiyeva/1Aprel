@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CB3NDL0ZP3+2y0QG/lnBe00XMUYcqMg+HEPCLniTiEHxR2c2WNHS3vlACf3aIs8LV2HB/1/xCGR3W/mLjDwqYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Tasklar\\Restoran\\Caistir\\Caistir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

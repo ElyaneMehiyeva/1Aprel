@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\bin\Debug\netcoreapp3.1\RestoranOrdersSystem.deps.json
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\bin\Debug\netcoreapp3.1\RestoranOrdersSystem.dll
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\bin\Debug\netcoreapp3.1\RestoranOrdersSystem.pdb
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.dll
+C:\Users\User\Desktop\Tasklar\Restoran\RestoranOrdersSystem\obj\Debug\netcoreapp3.1\RestoranOrdersSystem.pdb
